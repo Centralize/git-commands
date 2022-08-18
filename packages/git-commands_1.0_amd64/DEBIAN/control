@@ -1,0 +1,5 @@
+Package: git-commands
+Version: 1.0
+Architecture: amd64
+Maintainer: Mikkel Kaas <mkaas@openlab.dk>
+Description: Easy to remember git commands.

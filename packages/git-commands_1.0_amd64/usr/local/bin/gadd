@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+FILES=$1
+
+echo "Adding $FILES"
+git add $FILES
+echo "Done."
+exit 0
